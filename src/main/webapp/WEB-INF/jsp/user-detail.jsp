@@ -3,3 +3,17 @@
 <%@ include file ="../layout/taglib.jsp" %>
 
 <h1>${user.name}</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
